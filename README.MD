@@ -14,3 +14,4 @@ This file was used by the [launcher](https://github.com/VidemanMC/launcher) to c
 
 ### Maybe sometime, somehow, modpack will receive update/remake.
 <sub>я устал писать на английском</sub>. Учитывая историю мох проектов и что с распадом Videman-а этот модпак теперь полностью мой: скорее всего если что-то новое и появится, то это будет полусырой ремейк.
+<sub>(это последнее место, где есть этот модпак, я удалил его со всех своих дисков, чтоб освободить место :" )</sub>
