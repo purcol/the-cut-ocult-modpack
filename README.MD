@@ -1,8 +1,8 @@
 # not VidemanMC Modpack since 03.11.25
 In was repository the modpack from our modded server is stored. I keep it in specific structure:
-  `client/` - client
-  `server/` - server
-  `generic/` - content for both sides
+  `client/` - client.
+  `server/` - server.
+  `generic/` - content for both sides.
 
 ## Why?
 Idk, why now, but it was for:
